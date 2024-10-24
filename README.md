@@ -37,6 +37,10 @@ This dashboard was developed using:
 - Power BI (business intelligence tool)
 - Data sources such as internal sales databases or third-party platforms.
 
+## Screenshot
+
+![Adidas US Sales Dashboard](https://github.com/user-attachments/assets/a5700015-4d74-4df1-b7ad-572a391ed996)
+
 ## Installation (if applicable)
 
 1. Clone the repository:
@@ -45,5 +49,3 @@ This dashboard was developed using:
    ```
 2. Open the Power BI file (if available) or launch the tool and import the dataset.
 
-
-![Adidas US Sales Dashboard](https://github.com/user-attachments/assets/a5700015-4d74-4df1-b7ad-572a391ed996)
