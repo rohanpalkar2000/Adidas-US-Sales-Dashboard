@@ -41,7 +41,7 @@ This dashboard was developed using:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rohanpalkar2000/adidas-us-sales-report.git
+   git clone https://github.com/rohanpalkar2000/Adidas-US-Sales-Dashboard.git
    ```
 2. Open the Power BI file (if available) or launch the tool and import the dataset.
 
